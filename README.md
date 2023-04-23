@@ -24,13 +24,15 @@ We offer a bounty for building variou integrations as parachains(also called imp
  - Governance: The parachain should support governance features, including but not limited to voting and decision-making.
 
 ### Submission Requirements:
-Create an issue presenting the idea and description of the chain you are planning to build following the similar format as shown below
+#### Create an issue presenting the idea and description of the chain you are planning to build following the similar format as shown below
  - A functional parachain that meets the above specifications and is deployed on the Polkadot network.
  - Please include in your submission’s readme file:
  - Project title
  - Project description (minimum 150 words)
  - Name of bounty
  - Name of parachain
+
+#### Once the issue has been approved from the impact team, go ahead and start building the app and the submission requires the below artifacts
  - Clear documentation that outlines how the parachain works and how to use it.
  - Source code that is well-documented and can be easily audited by third-party developers.
  - A comprehensive testing plan that covers all aspects of the parachain.
