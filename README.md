@@ -60,6 +60,9 @@ Includes the level of skill or knowledge required to build the chain.
 #### User Experience
 Includes how intuitive and understandable the submission is for potential users or developers.
 
+## Reward
+The bounty reward for the integration depends on the importance of the parachains. It will be awarded as grant(definitely milestone based) with long term support to the team building the chain.
+
 Find the list of existing bounties
 There has been an issue created, please follow the link 
 https://github.com/GlobalBoost/dapps-bounties/issues
