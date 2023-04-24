@@ -4,7 +4,7 @@ Impact Protocol is one of the first chains with a hybrid consensus mechanism. It
 ## Integrations with impact protocol
 
 ## Description:
-We offer a bounty for building variou integrations as parachains(also called impact chains) that drive adoption, usabilty for the whole impactprotocol ecosystem. This is the open track where you can build any chain that could solve some real challenges by building it own custom chain and integrate with the impact protocol. The community of developers can utilize the modular substrate framework to accomplish anything they want.
+We offer a bounty for building various integrations as parachains(also called impact chains) that drive adoption, usabilty for the whole impactprotocol ecosystem. This is the open track where you can build any chain that could solve some real challenges by building it own custom chain and integrate with the impact protocol. The community of developers can utilize the modular substrate framework to accomplish anything they want.
 
 ### Example project ideas:
  - Building a chain that focusses on defi 
